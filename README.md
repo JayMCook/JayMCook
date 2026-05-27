@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jay Cook and I'm a Master's Computer Science Student at Fordham University, originally from Philadelphia, PA, currently living in Brooklyn, NY.</p>
+<p align="left">My name is Jay Cook and I'm an aspiring Software Engineer with a Master's Degree in Computer Science from Fordham University, originally from Philadelphia, PA, currently living in Brooklyn, NY.</p>
 
 ###
 
